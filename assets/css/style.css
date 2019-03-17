@@ -1,0 +1,66 @@
+body{
+background-image: url("../images/spiration-light.png");
+}   
+
+.gem-image {
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    margin-left: 90px;
+    text-align: center;
+    background: url("../images/famer.png");
+    color: rgb(17, 12, 12);
+    font-weight: bolder;
+    height: 220px;
+    width: 900px;
+    
+
+   
+}
+
+h5 {
+    background-color: rgb(169, 167, 169);
+    padding: 20px;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+}
+
+h2 {
+    background-color: #49AEE2;
+    padding: 10px;
+}
+
+h3 {
+    background-color: #F0D154;
+    padding: 10px;
+}
+
+.gems {
+    justify-content: center;
+    padding: 35px;
+    
+}
+
+.gemButton {
+    background-color: transparent;
+
+}
+
+.wins {
+    background-color: #00A54F;
+    font-size: 25px;
+    color: white;
+}
+
+.losses {
+    background-color: #ED3E2D;
+    font-size: 25px;
+    color: white;
+}
+
+.farmer {
+    
+}
